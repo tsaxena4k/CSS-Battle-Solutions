@@ -1,0 +1,77 @@
+<div>
+    <div class="f">
+        <div class="semi-circle"></div>
+    </div>
+    <div class="s">
+        <div class="semi-circle"></div>
+    </div>
+</div>
+<div>
+    <div class="t">
+        <div class="semi-circle"></div>
+    </div>
+    <div class="fo">
+        <div class="semi-circle"></div>
+    </div>
+</div>
+<style>
+    html {
+        background: #191919;
+    }
+
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .semi-circle {
+        height: 50px;
+        width: 100px;
+        border-radius: 100px 100px 0 0;
+    }
+
+    .f .semi-circle {
+        background: #F9E492;
+    }
+
+    .t .semi-circle {
+        background: #4F77FF;
+        transform: rotate(90deg);
+        position: absolute;
+        left: 44%
+    }
+
+    .fo .semi-circle {
+        background: #F9E492;
+        transform: rotate(180deg);
+    }
+
+    .s .semi-circle {
+        background: #4F77FF;
+        transform: rotate(270deg);
+        position: absolute;
+        left: 31%
+    }
+
+    .f,
+    .s,
+    .t,
+    .fo {
+        display: flex;
+        width: 100px;
+        height: 100px;
+    }
+
+    .f {
+        align-items: flex-end;
+    }
+
+    .t {
+        align-items: center;
+    }
+
+    .s {
+        align-items: center;
+    }
+</style>

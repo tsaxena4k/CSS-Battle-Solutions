@@ -1,0 +1,67 @@
+<div class="outter">
+    <div class="inner"></div>
+    <div class="inner-inner"></div>
+    <div class="ball1"></div>
+    <div class="ball2"></div>
+</div>
+<style>
+    body {
+        background: #191919;
+    }
+
+    div.outter {
+        width: 160px;
+        height: 160px;
+        border-radius: 50%;
+        background: #824B20;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    div.inner {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        background: #E08027;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    div.inner-inner {
+        width: 80px;
+        height: 40px;
+        background-color: transparent;
+        border-bottom-left-radius: 110px;
+        border-bottom-right-radius: 110px;
+        border: 20px solid #FFF58F;
+        border-top: 0;
+        position: absolute;
+        top: 68%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    div.ball1,
+    div.ball2 {
+        width: 20px;
+        height: 20px;
+        background: #FFF58F;
+        border-radius: 50%;
+    }
+
+    .ball1 {
+        position: absolute;
+        left: 75%;
+        top: 44%;
+    }
+
+    .ball2 {
+        position: absolute;
+        left: 12.5%;
+        top: 44%;
+    }
+</style>
