@@ -1,7 +1,7 @@
 ![](https://i.ibb.co/jbSCJ2m/maxresdefault.jpg)
 # CSS-Battle-Solutions 
 
-These are my solutions to the [CSS Battle](https://cssbattle.dev/) problems 
+These are my solutions to the [CSS Battle](https://cssbattle.dev/player/tsaxena4k) problems 
 
 - [#1-Simply Square 🟩](https://cssbattle.dev/play/1)
 - [#2-Carrom 🔣](https://cssbattle.dev/play/2)
