@@ -1,0 +1,44 @@
+<div style=display:flex>
+    <div class='a c1'></div>
+    <div class='b c2'></div>
+    <div class='b c1'></div>
+    <div class='a c2'></div>
+</div>
+<div style=display:flex>
+    <div class='b c2' style=transform:rotate(180deg)></div>
+    <div class='a c1'></div>
+    <div class='a c2'></div>
+    <div class='b c1' style=transform:rotate(180deg)></div>
+</div>
+<style>
+    body {
+        background: #1A4341;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 72px;
+    }
+
+    .a {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin: 10px;
+    }
+
+    .b {
+        width: 50px;
+        height: 50px;
+        border-radius: 50% 50% 0 0;
+        margin: 10px;
+    }
+
+    .c1 {
+        background: #998235
+    }
+
+    .c2 {
+        background: #F3AC3C
+    }
+</style>
