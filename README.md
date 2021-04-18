@@ -8,6 +8,7 @@ These are my solutions to the [CSS Battle](https://cssbattle.dev/player/tsaxena4
 - [#7-Leafy Trail 🍀](https://cssbattle.dev/play/7)
 - [#13-Totally Triangle 🔺](https://cssbattle.dev/play/13)
 - [#18-Matrix #️⃣](https://cssbattle.dev/play/18)
+- [#27-Lock up 🟠](https://cssbattle.dev/play/27)
 - [#30-Horizon 🌅](https://cssbattle.dev/play/30)
 - [#40-Letter B 🅱️](https://cssbattle.dev/play/40)
 - [#46-Mountains ⛰️](https://cssbattle.dev/play/46)
