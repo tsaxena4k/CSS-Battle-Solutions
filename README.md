@@ -18,6 +18,7 @@ These are my solutions to the [CSS Battle](https://cssbattle.dev/player/tsaxena4
 - [#64-Door Knob 🚪](https://cssbattle.dev/play/64)
 - [#68-Bell 🔔](https://cssbattle.dev/play/68)
 - [#69-Push Owl 🦉](https://cssbattle.dev/play/69)
+- [#75-Hippo 🦛](https://cssbattle.dev/play/75)
 
 <div align='center'>
 
