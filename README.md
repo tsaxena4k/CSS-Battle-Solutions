@@ -9,6 +9,7 @@ These are my solutions to the [CSS Battle](https://cssbattle.dev/player/tsaxena4
 - [#13-Totally Triangle 🔺](https://cssbattle.dev/play/13)
 - [#18-Matrix #️⃣](https://cssbattle.dev/play/18)
 - [#27-Lock up 🟠](https://cssbattle.dev/play/27)
+- [#28-Cups & Balls 🟠](https://cssbattle.dev/play/28)
 - [#30-Horizon 🌅](https://cssbattle.dev/play/30)
 - [#40-Letter B 🅱️](https://cssbattle.dev/play/40)
 - [#46-Mountains ⛰️](https://cssbattle.dev/play/46)
