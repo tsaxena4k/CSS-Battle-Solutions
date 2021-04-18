@@ -1,0 +1,73 @@
+<div class=face>
+    <div class=ear style=right:38%;top:23%;transform:rotate(45deg);>
+        <div class=ear2></div>
+    </div>
+    <div class=ear style=left:38%;top:23%;transform:rotate(-45deg);>
+        <div class=ear2></div>
+    </div>
+    <div class=eye style=left:58%;top:41.5%></div>
+    <div class=eye style=right:58%;top:41.5%></div>
+</div>
+<div class=jaw>
+    <div class=nose style=left:15%;transform:rotate(45deg)></div>
+    <div class=nose style=right:15%;transform:rotate(-45deg)></div>
+</div>
+<style>
+    body {
+        background: #191919;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .face {
+        width: 135px;
+        height: 150px;
+        background: #FE5F55;
+        border-radius: 45% 45% 0 0;
+    }
+
+    .jaw {
+        width: 150px;
+        height: 100px;
+        background: #A64942;
+        border-radius: 45% 45% 40% 40%;
+        position: absolute;
+        top: 48%;
+    }
+
+    .eye {
+        width: 10px;
+        height: 10px;
+        background: #000000;
+        border-radius: 50%;
+        position: absolute;
+    }
+
+    .ear {
+        width: 20px;
+        height: 40px;
+        background: #FE5F55;
+        border-radius: 45%;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .ear2 {
+        width: 10px;
+        height: 20px;
+        background: black;
+        border-radius: 45%;
+        margin-top: 5px;
+        margin-left: 5px;
+    }
+
+    .nose {
+        width: 20px;
+        height: 30px;
+        background: black;
+        border-radius: 45%;
+        position: absolute;
+        top: 20%;
+    }
+</style>
