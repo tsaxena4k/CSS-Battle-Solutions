@@ -16,5 +16,24 @@ These are my solutions to the [CSS Battle](https://cssbattle.dev/) problems
 - [#64-Door Knob 🚪](https://cssbattle.dev/play/64)
 - [#69-Push Owl 🦉](https://cssbattle.dev/play/69)
 
-### Come Find Me
+### `Come Find Me`
 
+[<img alt="Tushar | Twitter" width="22px" src="https://svgshare.com/i/Snh.svg" />][twitter]
+[<img alt="Tushar | LinkedIn" width="22px" src="https://svgshare.com/i/SoD.svg" />][linkedin]
+[<img alt="Tushar | Instagram" width="22px" src="https://svgshare.com/i/Sko.svg" />][instagram]
+[<img alt="Tuhsra | facebook" width="22px" src="https://svgshare.com/i/Snk.svg" />][facebook]
+[<img alt="Tuhsra | stackoverflow" width="22px" src="https://svgshare.com/i/Snj.svg" />][stackoverflow]
+[<img alt="Tuhsra | discord" width="22px" src="https://svgshare.com/i/Smt.svg" />][discord]
+[<img alt="Tuhsra | pinterest" width="22px" src="https://svgshare.com/i/SoQ.svg" />][pinterest]
+[<img alt="Tuhsra | dribble" width="22px" src="https://svgshare.com/i/Sni.svg" />][dribble]
+[<img alt="Tuhsra | codepen" width="22px" src="https://svgshare.com/i/Sn1.svg" />][codepen]
+
+[twitter]: https://twitter.com/tsaxena4k
+[instagram]: https://www.instagram.com/tsaxena4k/
+[linkedin]: https://www.linkedin.com/in/tushar-saxena-94b742184/
+[facebook]: https://www.facebook.com/tushar.saxena.56232
+[stackoverflow]: https://stackoverflow.com/users/14212597/tushar-saxena
+[discord]: https://discord.gg/cvqaGJ
+[pinterest]: https://in.pinterest.com/tusharsaxena562/
+[dribble]: https://dribbble.com/tsaxen3k
+[codepen]: https://codepen.io/tsaxena4k
