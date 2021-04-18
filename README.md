@@ -16,6 +16,8 @@ These are my solutions to the [CSS Battle](https://cssbattle.dev/) problems
 - [#64-Door Knob 🚪](https://cssbattle.dev/play/64)
 - [#69-Push Owl 🦉](https://cssbattle.dev/play/69)
 
+<div align='center'>
+
 ### `Come Find Me`
 
 [<img alt="Tushar | Twitter" width="22px" src="https://svgshare.com/i/Snh.svg" />][twitter]
@@ -27,6 +29,8 @@ These are my solutions to the [CSS Battle](https://cssbattle.dev/) problems
 [<img alt="Tuhsra | pinterest" width="22px" src="https://svgshare.com/i/SoQ.svg" />][pinterest]
 [<img alt="Tuhsra | dribble" width="22px" src="https://svgshare.com/i/Sni.svg" />][dribble]
 [<img alt="Tuhsra | codepen" width="22px" src="https://svgshare.com/i/Sn1.svg" />][codepen]
+
+</div>
 
 [twitter]: https://twitter.com/tsaxena4k
 [instagram]: https://www.instagram.com/tsaxena4k/
