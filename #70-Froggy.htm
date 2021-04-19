@@ -1,0 +1,57 @@
+<div class=eye style=left:40%></div>
+<div class=eye style=right:40%></div>
+<div class=nose style=left:46%></div>
+<div class=nose style=right:46%;></div>
+<div class=face>
+    <div class=jaw></div>
+</div>
+<style>
+    body {
+        background: #293462;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .face {
+        margin-top: 20px;
+        width: 150px;
+        height: 100px;
+        background: #A64942;
+        border-radius: 42%;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .jaw {
+        position: absolute;
+        top: -30%;
+        left: -15%;
+        width: 200px;
+        height: 100px;
+        background: #FE5F55;
+        border-radius: 45%;
+    }
+
+    .eye {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: #293462;
+        position: absolute;
+        top: 35%;
+        z-index: 999;
+        box-shadow: 0 0 0 10px #FFF1C1,
+            0 0 0 20px #FE5F55;
+    }
+
+    .nose {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: #293462;
+        position: absolute;
+        top: 53.2%;
+        z-index: 999;
+    }
+</style>
