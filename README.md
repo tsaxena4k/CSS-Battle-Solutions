@@ -11,6 +11,7 @@ These are my solutions to the [CSS Battle](https://cssbattle.dev/player/tsaxena4
 - [#27-Lock up 🟠](https://cssbattle.dev/play/27)
 - [#28-Cups & Balls 🟠](https://cssbattle.dev/play/28)
 - [#30-Horizon 🌅](https://cssbattle.dev/play/30)
+- [#36-Interleaved 📏](https://cssbattle.dev/play/36)
 - [#40-Letter B 🅱️](https://cssbattle.dev/play/40)
 - [#46-Mountains ⛰️](https://cssbattle.dev/play/46)
 - [#55-Windmill 💨](https://cssbattle.dev/play/55)
